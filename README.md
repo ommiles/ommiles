@@ -28,6 +28,13 @@ Here are some ideas to get you started:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ommiles&repo=anightinjapan)](https://github.com/ommiles/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ommiles&repo=threejs)](https://github.com/ommiles/github-readme-stats)
 
+<a href="https://github.com/ommiles/tropicaal">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ommiles&repo=tropicaal" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ommiles&repo=convoychat" />
+</a>
+
 <!-- https://github.com/antonkomarev/github-profile-views-counter -->
 ![](https://komarev.com/ghpvc/?username=ommiles)
 
