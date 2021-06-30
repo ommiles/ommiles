@@ -19,17 +19,16 @@ Here are some ideas to get you started:
 
 <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
 <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
-<div align="center">
- <p>
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ommiles&repo=tropicaal)](https://github.com/ommiles/github-readme-stats)
- </p>
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ommiles&repo=tropicaal)](https://github.com/ommiles/github-readme-stats)
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ommiles&repo=berkshire-hathaway)](https://github.com/ommiles/github-readme-stats)
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ommiles&repo=jiffy)](https://github.com/ommiles/github-readme-stats)
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ommiles&repo=goodcoffeeroasters)](https://github.com/ommiles/github-readme-stats)
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ommiles&repo=anightinjapan)](https://github.com/ommiles/github-readme-stats)
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ommiles&repo=threejs)](https://github.com/ommiles/github-readme-stats)
-</div>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ommiles&repo=tropicaal)](https://github.com/ommiles/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ommiles&repo=tropicaal)](https://github.com/ommiles/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ommiles&repo=berkshire-hathaway)](https://github.com/ommiles/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ommiles&repo=jiffy)](https://github.com/ommiles/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ommiles&repo=goodcoffeeroasters)](https://github.com/ommiles/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ommiles&repo=anightinjapan)](https://github.com/ommiles/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ommiles&repo=threejs)](https://github.com/ommiles/github-readme-stats)
+
+<!-- https://github.com/antonkomarev/github-profile-views-counter -->
+![](https://komarev.com/ghpvc/?username=ommiles)
 
 <p align="left">
   <a href="https://github.com/ommiles?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEiIGhlaWdodD0iMTYiIHdpZHRoPSIxNiI+PHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBkPSJNMiAyLjVBMi41IDIuNSAwIDAxNC41IDBoOC43NWEuNzUuNzUgMCAwMS43NS43NXYxMi41YS43NS43NSAwIDAxLS43NS43NWgtMi41YS43NS43NSAwIDExMC0xLjVoMS43NXYtMmgtOGExIDEgMCAwMC0uNzE0IDEuNy43NS43NSAwIDAxLTEuMDcyIDEuMDVBMi40OTUgMi40OTUgMCAwMTIgMTEuNXYtOXptMTAuNS0xVjloLThjLS4zNTYgMC0uNjk0LjA3NC0xIC4yMDhWMi41YTEgMSAwIDAxMS0xaDh6TTUgMTIuMjV2My4yNWEuMjUuMjUgMCAwMC40LjJsMS40NS0xLjA4N2EuMjUuMjUgMCAwMS4zIDBMOC42IDE1LjdhLjI1LjI1IDAgMDAuNC0uMnYtMy4yNWEuMjUuMjUgMCAwMC0uMjUtLjI1aC0zLjVhLjI1LjI1IDAgMDAtLjI1LjI1eiIgIGZpbGw9IiNmZmYiLz48L3N2Zz4="/></a>
