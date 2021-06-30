@@ -20,6 +20,8 @@ Here are some ideas to get you started:
 <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
 <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ommiles&repo=github-readme-stats)](https://github.com/ommiles/github-readme-stats)
+
 <p align="left">
   <a href="https://github.com/ommiles/tropicaal"><img width="282" src="https://ommiles-github-readme-stats.vercel.app/api/pin/?username=ommiles&repo=tropicaal&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="tropicaal"></a>
   <a href="https://github.com/ommiles/jiffy"><img width="282" src="https://ommiles-github-readme-stats.vercel.app/api/pin/?username=ommiles&repo=jiffy&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="jiffy"></a>
