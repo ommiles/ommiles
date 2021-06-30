@@ -21,29 +21,21 @@ Here are some ideas to get you started:
 
 <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
 <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
-<p align="center">
-| | |
-| :--: | :--: |
-| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ommiles&repo=tropicaal)](https://github.com/ommiles/github-readme-stats) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ommiles&repo=berkshire-hathaway)](https://github.com/ommiles/github-readme-stats) |
-| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ommiles&repo=jiffy)](https://github.com/ommiles/github-readme-stats) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ommiles&repo=goodcoffeeroasters)](https://github.com/ommiles/github-readme-stats) |
-| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ommiles&repo=anightinjapan)](https://github.com/ommiles/github-readme-stats) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ommiles&repo=threejs)](https://github.com/ommiles/github-readme-stats) |
-</p>
-
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ommiles&repo=tropicaal)](https://github.com/ommiles/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ommiles&repo=tropicaal)](https://github.com/ommiles/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ommiles&repo=berkshire-hathaway)](https://github.com/ommiles/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ommiles&repo=jiffy)](https://github.com/ommiles/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ommiles&repo=goodcoffeeroasters)](https://github.com/ommiles/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ommiles&repo=anightinjapan)](https://github.com/ommiles/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ommiles&repo=threejs)](https://github.com/ommiles/github-readme-stats) -->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ommiles&repo=threejs)](https://github.com/ommiles/github-readme-stats)
 
 
-<div align-"center">
+<div align="center">
  <a href="https://github.com/ommiles/tropicaal">
-  <img align="center" width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=ommiles&repo=tropicaal&theme=gradient&bg_color=1F222E,FAFA6E" />
+  <img align="center" height=200 src="https://github-readme-stats.vercel.app/api/pin/?username=ommiles&repo=tropicaal&theme=gradient&bg_color=1F222E,FAFA6E" />
  </a>
  <br>
  <a href="https://github.com/ommiles/berkshire-hathaway">
-  <img align="center" width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=ommiles&repo=berkshire-hathaway&theme=gradient&bg_color=1F222E,FAFA6E" />
+  <img align="center" height=200 src="https://github-readme-stats.vercel.app/api/pin/?username=ommiles&repo=berkshire-hathaway&theme=gradient&bg_color=1F222E,FAFA6E" />
  </a>
 </div>
 
