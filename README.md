@@ -28,13 +28,15 @@ Here are some ideas to get you started:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ommiles&repo=anightinjapan)](https://github.com/ommiles/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ommiles&repo=threejs)](https://github.com/ommiles/github-readme-stats)
 
-<a href="https://github.com/ommiles/tropicaal">
-  <img align="center" style="padding: 20px;" src="https://github-readme-stats.vercel.app/api/pin/?username=ommiles&repo=tropicaal" />
-</a>
-<br>
-<a href="https://github.com/ommiles/berkshire-hathaway">
-  <img align="center" style="padding: 20px;" src="https://github-readme-stats.vercel.app/api/pin/?username=ommiles&repo=berkshire-hathaway" />
-</a>
+<div style="display:flex;">
+ <a href="https://github.com/ommiles/tropicaal">
+  <img align="center" style="padding: 200px;" src="https://github-readme-stats.vercel.app/api/pin/?username=ommiles&repo=tropicaal" />
+ </a>
+ <br>
+ <a href="https://github.com/ommiles/berkshire-hathaway">
+  <img align="center" style="padding: 200px;" src="https://github-readme-stats.vercel.app/api/pin/?username=ommiles&repo=berkshire-hathaway" />
+ </a>
+</div>
 
 <!-- https://github.com/antonkomarev/github-profile-views-counter -->
 ![](https://komarev.com/ghpvc/?username=ommiles)
