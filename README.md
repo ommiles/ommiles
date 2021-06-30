@@ -17,9 +17,10 @@ Here are some ideas to get you started:
  <img src="https://pronoun.cyou/x/y?subject=She&object=Her&height=20">
 </div>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ommiles&layout=compact)](https://github.com/ommiles/github-readme-stats)
+
 <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
 <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ommiles&repo=tropicaal)](https://github.com/ommiles/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ommiles&repo=tropicaal)](https://github.com/ommiles/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ommiles&repo=berkshire-hathaway)](https://github.com/ommiles/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ommiles&repo=jiffy)](https://github.com/ommiles/github-readme-stats)
