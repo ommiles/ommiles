@@ -1,6 +1,5 @@
 <div align="center">
-  <h1>Hi there 👋</h1>
-  Thanks for visiting my repo! ✨ 
+  <h1>Hi there 👋  <br> Thanks for visiting my repo! ✨ </h1>
 </div>
 
 
