@@ -19,35 +19,22 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ommiles&layout=compact)](https://github.com/ommiles/github-readme-stats)
 
+<p align="center">
+ <a href="https://github.com/ommiles">
+  <img height=160 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ommiles&layout=compact" alt="my top languages">
+ </a>
+</p>
+
 <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
 <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ommiles&repo=tropicaal)](https://github.com/ommiles/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ommiles&repo=berkshire-hathaway)](https://github.com/ommiles/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ommiles&repo=jiffy)](https://github.com/ommiles/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ommiles&repo=goodcoffeeroasters)](https://github.com/ommiles/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ommiles&repo=anightinjapan)](https://github.com/ommiles/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ommiles&repo=threejs)](https://github.com/ommiles/github-readme-stats)
-
-
-<div align="center">
- <a href="https://github.com/ommiles/tropicaal">
-  <img align="center" height=200 src="https://github-readme-stats.vercel.app/api/pin/?username=ommiles&repo=tropicaal&theme=gradient&bg_color=1F222E,FAFA6E" />
- </a>
- <br>
- <a href="https://github.com/ommiles/berkshire-hathaway">
-  <img align="center" height=200 src="https://github-readme-stats.vercel.app/api/pin/?username=ommiles&repo=berkshire-hathaway&theme=gradient&bg_color=1F222E,FAFA6E" />
- </a>
-</div>
-
-(https://github-readme-stats.vercel.app/api/pin/?username=ommiles&repo=threejs)](https://github.com/ommiles/github-readme-stats)
 
 <p align="center">
-  <a href="https://github.com/ommiles/tropicaal"><img height=180 src="https://github-readme-stats.vercel.app/api/pin/?username=ommiles&repo=tropicaal&theme=react&show_icons=true" alt="tropicaal"></a>
-  <a href="https://github.com/ommiles/berkshire-hathaway"><img height=180 src="https://github-readme-stats.vercel.app/api/pin/?username=ommiles&repo=berkshire-hathaway&theme=react&show_icons=true" alt="berkshire-hathaway"></a>
-  <a href="https://github.com/ommiles/jiffy"><img height=180 src="https://github-readme-stats.vercel.app/api/pin/?username=ommiles&repo=jiffy&theme=react&show_icons=true" alt="jiffy"></a>
-  <a href="https://github.com/ommiles/goodcoffeeroasters"><img height=180 src="https://github-readme-stats.vercel.app/api/pin/?username=ommiles&repo=goodcoffeeroasters&theme=react&show_icons=true" alt="goodcoffeeroasters"></a>
-  <a href="https://github.com/ommiles/anightinjapan"><img height=180 src="https://github-readme-stats.vercel.app/api/pin?username=ommiles&repo=anightinjapan&theme=react&show_icons=true" alt="anightinjapan"></a>
-  <a href="https://github.com/ommiles/threejs"><img height=180 src="https://github-readme-stats.vercel.app/api/pin/?username=ommiles&repo=threejs&theme=react&show_icons=true" alt="threejs"></a>
+  <a href="https://github.com/ommiles/tropicaal"><img height=160 src="https://github-readme-stats.vercel.app/api/pin/?username=ommiles&repo=tropicaal&theme=react&show_icons=true" alt="tropicaal"></a>
+  <a href="https://github.com/ommiles/berkshire-hathaway"><img height=160 src="https://github-readme-stats.vercel.app/api/pin/?username=ommiles&repo=berkshire-hathaway&theme=react&show_icons=true" alt="berkshire-hathaway"></a>
+  <a href="https://github.com/ommiles/jiffy"><img height=160 src="https://github-readme-stats.vercel.app/api/pin/?username=ommiles&repo=jiffy&theme=react&show_icons=true" alt="jiffy"></a>
+  <a href="https://github.com/ommiles/goodcoffeeroasters"><img height=160 src="https://github-readme-stats.vercel.app/api/pin/?username=ommiles&repo=goodcoffeeroasters&theme=react&show_icons=true" alt="goodcoffeeroasters"></a>
+  <a href="https://github.com/ommiles/anightinjapan"><img height=160 src="https://github-readme-stats.vercel.app/api/pin?username=ommiles&repo=anightinjapan&theme=react&show_icons=true" alt="anightinjapan"></a>
+  <a href="https://github.com/ommiles/threejs"><img height=160 src="https://github-readme-stats.vercel.app/api/pin/?username=ommiles&repo=threejs&theme=react&show_icons=true" alt="threejs"></a>
 </p>
 
 <!-- https://github.com/antonkomarev/github-profile-views-counter -->
