@@ -21,12 +21,12 @@ Here are some ideas to get you started:
 <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
 
 <p align="left">
-  <a href="https://github.com/ommiles/tropicaal"><img width="282" src="https://ommiles-github-readme-stats.vercel.app/api/pin/?username=ommiles&repo=github-readme-streak-stats&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
-  <a href="https://github.com/ommiles/jiffy"><img width="282" src="https://ommiles-github-readme-stats.vercel.app/api/pin/?username=ommiles&repo=LaTeX-Gboard-Dictionary&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="LaTeX-Gboard-Dictionary"></a>
-  <a href="https://github.com/ommiles/anightinjapan"><img width="282" src="https://ommiles-github-readme-stats.vercel.app/api/pin/?username=ommiles&repo=readme-typing-svg&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="readme-typing-svg"></a>
-  <a href="https://github.com/ommiles/goodcoffeeroasters"><img width="282" src="https://ommiles-github-readme-stats.vercel.app/api/pin/?username=ommiles&repo=unicode-formatter&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="unicode-formatter"></a>
-  <a href="https://github.com/ommiles/coolmat"><img width="282" src="https://ommiles-github-readme-stats.vercel.app/api/pin?username=ommiles&repo=weather-app-tutorial&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="weather-app-tutorial"></a>
-  <a href="https://github.com/ommiles/threejs"><img width="282" src="https://ommiles-github-readme-stats.vercel.app/api/pin/?username=ommiles&repo=table2ascii&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="table2ascii"></a>
+  <a href="https://github.com/ommiles/tropicaal"><img width="282" src="https://ommiles-github-readme-stats.vercel.app/api/pin/?username=ommiles&repo=tropicaal&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="tropicaal"></a>
+  <a href="https://github.com/ommiles/jiffy"><img width="282" src="https://ommiles-github-readme-stats.vercel.app/api/pin/?username=ommiles&repo=jiffy&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="jiffy"></a>
+  <a href="https://github.com/ommiles/anightinjapan"><img width="282" src="https://ommiles-github-readme-stats.vercel.app/api/pin/?username=ommiles&repo=anightinjapan&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="anightinjapan"></a>
+  <a href="https://github.com/ommiles/goodcoffeeroasters"><img width="282" src="https://ommiles-github-readme-stats.vercel.app/api/pin/?username=ommiles&repo=goodcoffeeroasters&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="goodcoffeeroasters"></a>
+  <a href="https://github.com/ommiles/coolmat"><img width="282" src="https://ommiles-github-readme-stats.vercel.app/api/pin?username=ommiles&repo=coolmat&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="coolmat"></a>
+  <a href="https://github.com/ommiles/threejs"><img width="282" src="https://ommiles-github-readme-stats.vercel.app/api/pin/?username=ommiles&repo=threejs&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="threejs"></a>
 </p>
 
 <p align="left">
