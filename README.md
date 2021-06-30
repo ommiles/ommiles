@@ -30,21 +30,21 @@ Here are some ideas to get you started:
 
 <div align-"center">
  <a href="https://github.com/ommiles/tropicaal">
-  <img align="center" width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=ommiles&repo=tropicaal&theme=gradient" />
+  <img align="center" width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=ommiles&repo=tropicaal&theme=gradient&bg_color=1F222E,FAFA6E" />
  </a>
  <br>
  <a href="https://github.com/ommiles/berkshire-hathaway">
-  <img align="center" width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=ommiles&repo=berkshire-hathaway&theme=gradient" />
+  <img align="center" width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=ommiles&repo=berkshire-hathaway&theme=gradient&bg_color=1F222E,FAFA6E" />
  </a>
 </div>
 
 <p align="center">
-  <a href="https://github.com/ommiles/tropicaal"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=ommiles&repo=tropicaal&theme=gradient&bg_color=1F222E,45rst3&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="tropicaal"></a>
-  <a href="https://github.com/ommiles/berkshire-hathaway"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=ommiles&repo=berkshire-hathaway&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="berkshire-hathaway"></a>
-  <a href="https://github.com/ommiles/jiffy"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=ommiles&repo=jiffy&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="jiffy"></a>
-  <a href="https://github.com/ommiles/goodcoffeeroasters"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=ommiles&repo=goodcoffeeroasters&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="goodcoffeeroasters"></a>
-  <a href="https://github.com/ommiles/anightinjapan"><img width="282" src="https://github-readme-stats.vercel.app/api/pin?username=ommiles&repo=anightinjapan&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="anightinjapan"></a>
-  <a href="https://github.com/ommiles/threejs"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=ommiles&repo=threejs&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="threejs"></a>
+  <a href="https://github.com/ommiles/tropicaal"><img height="200" width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=ommiles&repo=tropicaal&theme=gradient&bg_color=1F222E,45rst3&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="tropicaal"></a>
+  <a href="https://github.com/ommiles/berkshire-hathaway"><img height="200" width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=ommiles&repo=berkshire-hathaway&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="berkshire-hathaway"></a>
+  <a href="https://github.com/ommiles/jiffy"><img height="200" width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=ommiles&repo=jiffy&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="jiffy"></a>
+  <a href="https://github.com/ommiles/goodcoffeeroasters"><img height="200" width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=ommiles&repo=goodcoffeeroasters&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="goodcoffeeroasters"></a>
+  <a href="https://github.com/ommiles/anightinjapan"><img height="200" width="282" src="https://github-readme-stats.vercel.app/api/pin?username=ommiles&repo=anightinjapan&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="anightinjapan"></a>
+  <a href="https://github.com/ommiles/threejs"><img height="200" width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=ommiles&repo=threejs&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="threejs"></a>
 </p>
 
 <!-- https://github.com/antonkomarev/github-profile-views-counter -->
