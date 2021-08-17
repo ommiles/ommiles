@@ -11,7 +11,7 @@
   <a href="https://github.com/ommiles/phase-3-ruby-group-project-rack-react"><img min-height=160 width=400 src="https://github-readme-stats.vercel.app/api/pin/?username=ommiles&repo=phase-3-ruby-group-project-rack-react&theme=react&show_icons=true" alt="phase-3-ruby-group-project-rack-react"></a>
   <a href="https://github.com/ommiles/jiffy"><img min-height=160 width=400 src="https://github-readme-stats.vercel.app/api/pin/?username=ommiles&repo=jiffy&theme=react&show_icons=true" alt="jiffy"></a>
   <a href="https://github.com/ommiles/berkshire-hathaway"><img min-height=160 width=400 src="https://github-readme-stats.vercel.app/api/pin/?username=ommiles&repo=berkshire-hathaway&theme=react&show_icons=true" alt="berkshire-hathaway"></a>
-  <a href="https://github.com/ommiles/goodcoffeeroasters"><img min-height=160 width=400 src="https://github-readme-stats.vercel.app/api/pin/?username=ommiles&repo=goodcoffeeroasters&theme=react&show_icons=true" alt="goodcoffeeroasters"></a>
+  <a href="https://github.com/ommiles/updated-react-to-do-app"><img min-height=160 width=400 src="https://github-readme-stats.vercel.app/api/pin/?username=ommiles&repo=updated-react-to-do-app&theme=react&show_icons=true" alt="updated-react-to-do-app"></a>
   <a href="https://github.com/ommiles/anightinjapan"><img min-height=160 width=400 src="https://github-readme-stats.vercel.app/api/pin?username=ommiles&repo=anightinjapan&theme=react&show_icons=true" alt="anightinjapan"></a>
 </p>
 
